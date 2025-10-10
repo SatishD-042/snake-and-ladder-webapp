@@ -1,14 +1,7 @@
 
-# Snake and Ladder Game Website
+# Snake and Ladder Webapp
 
 This is a Snake and Ladder Game website developed using Node.js, React.js, Express.js, and MongoDB. It provides a fully responsive and secure platform for users to play the game. Users can create an account, save their game progress, create new games, load saved games, and logout from the game. The website supports multiplayer functionality, allowing a maximum of 4 players to play together.
-
-## Demo
-
-
-
-https://github.com/Prashant0664/snake-and-ladder/assets/98750053/2ffed578-2341-42ee-b1ef-faf871a4d2a3
-
 
 
 ## Features
@@ -30,35 +23,6 @@ https://github.com/Prashant0664/snake-and-ladder/assets/98750053/2ffed578-2341-4
 ✨ JavaScript: Programming language used for client-side and server-side scripting. <br/>
 ✨ TailwindCSS:  CSS framework to provides a comprehensive set of pre-built classes.
 
-## Installation and Setup
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/prashant0664/snake-and-ladder.git
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd snake-and-ladder
-  
-3. Install the dependencies
-
-   ```bash
-   npm install
-
-4. Set up the environment variables:
-
-   Create a `.env` file in the root directory.
-   Define the required environment variables in the file, such as MongoDB connection details, session secrets, etc.
-
-5. Start the development server:
-
-   ```bash
-   npm start
-
-6. Open your web browser and access the website at `http://localhost:3000`
-
 ## Usage
 
 ✨ Create a user account by registering on the website. <br/>
@@ -68,17 +32,4 @@ https://github.com/Prashant0664/snake-and-ladder/assets/98750053/2ffed578-2341-4
 ✨ Save your game progress to resume it later. <br/>
 ✨ Log out from the game when you are done <br/>
 
-## Contributing
 
-Contributions to the project are welcome! If you find any bugs or want to add new features, please open an issue or submit a pull request.
-
-## Contact
-For any inquiries or feedback, please contact:
-
-Prashant <br/>
-Email: `prashant201103@gmail.com`
-
-## Learn More
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
